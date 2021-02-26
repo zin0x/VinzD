@@ -1,11 +1,3 @@
-/* Note: you can choose any data type for your array that you like. Each one of the problems should have its own
-method
-
-Tip: Since array's index numbers are fixed if you want to add an element into an array you will need
-an entirely different array with 1 more index position.
-Use iterations to copy array data from one to another
- */
-
 public class Main {
     //add values to the end of an array.
     public static int[] addOn(int[]array, int number) {
